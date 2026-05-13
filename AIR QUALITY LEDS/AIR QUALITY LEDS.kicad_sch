@@ -1,0 +1,350 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6b57a073-dd70-4b56-bda9-204ede5de7e5")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 209.296 17.78)
+		(size 33.528 24.384)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0e5ea8d6-6478-438d-9776-3d97b37893cb")
+		(property "Sheetname" "SENSOR+FAN"
+			(at 209.296 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SENSOR+FAN.kicad_sch"
+			(at 209.296 42.7486 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AIR QUALITY LEDS"
+				(path "/6b57a073-dd70-4b56-bda9-204ede5de7e5"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.002 53.086)
+		(size 52.07 25.908)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "255f198d-4b12-4726-867f-016b89d9ee28")
+		(property "Sheetname" "RTC"
+			(at 16.002 52.3744 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RTC.kicad_sch"
+			(at 16.002 79.5786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AIR QUALITY LEDS"
+				(path "/6b57a073-dd70-4b56-bda9-204ede5de7e5"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 73.152 52.832)
+		(size 53.848 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7b95cae7-94c2-4cfb-ba48-cb6f4e9bd22c")
+		(property "Sheetname" "BUZZER"
+			(at 73.152 52.1204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BUZZER.kicad_sch"
+			(at 73.152 78.8166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AIR QUALITY LEDS"
+				(path "/6b57a073-dd70-4b56-bda9-204ede5de7e5"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 245.364 18.034)
+		(size 35.306 24.384)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "91445dd6-caa0-4228-898b-2e6be312e872")
+		(property "Sheetname" "INDICATION_LEDS"
+			(at 245.364 17.3224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "INDICATION_LEDS.kicad_sch"
+			(at 245.364 43.0026 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AIR QUALITY LEDS"
+				(path "/6b57a073-dd70-4b56-bda9-204ede5de7e5"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.494 17.018)
+		(size 55.118 25.146)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ac083c03-1263-468d-ac57-1dcb3085d55f")
+		(property "Sheetname" "ESP32-S3 MODULE"
+			(at 15.494 16.3064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32-S3 MODULE.kicad_sch"
+			(at 15.494 42.7486 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AIR QUALITY LEDS"
+				(path "/6b57a073-dd70-4b56-bda9-204ede5de7e5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.666 17.272)
+		(size 45.466 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c942cd8d-b2b3-4d97-a25f-6cedd12c243e")
+		(property "Sheetname" "ISOLATED_RS485"
+			(at 121.666 16.5604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ISOLATED_RS485.kicad_sch"
+			(at 121.666 43.2566 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AIR QUALITY LEDS"
+				(path "/6b57a073-dd70-4b56-bda9-204ede5de7e5"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 169.672 17.526)
+		(size 36.576 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dab55843-5328-4807-957e-7a87cccaa784")
+		(property "Sheetname" "ETHERNET"
+			(at 169.672 16.8144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ETHERNET.kicad_sch"
+			(at 169.672 42.2406 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AIR QUALITY LEDS"
+				(path "/6b57a073-dd70-4b56-bda9-204ede5de7e5"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 74.168 17.018)
+		(size 43.942 24.892)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "db6f83d5-e9e5-4f71-93d1-ba62f512d692")
+		(property "Sheetname" "POWER SUPPLY"
+			(at 74.168 16.3064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER SUPPLY.kicad_sch"
+			(at 74.168 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AIR QUALITY LEDS"
+				(path "/6b57a073-dd70-4b56-bda9-204ede5de7e5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
